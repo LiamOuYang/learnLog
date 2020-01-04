@@ -1,2 +1,2 @@
-# learnLog
-日常撸码
+# notes
+随笔
